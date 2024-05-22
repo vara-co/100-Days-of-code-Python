@@ -1,3 +1,5 @@
+(Note that if you don't see all projects, is because I am attempting to work on this on the days I am not working on my other classes and/or courses. I am always working on a school project, or personal project)
+
 <h1>100 Python Projects</h1> (Practice makes perfect, and this is me going from cero to hero in Python)<br/>
 
 Mastering Python by building 100 projects, from which I will learn: Data Science, Automation, Build Websites, Games and Apps!
